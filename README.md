@@ -1,14 +1,23 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=hakandereli&label=Profile%20views&color=0e75b6&style=flat" alt="hakandereli"/>
-<br/><br/>
+<br/>
 
 <img width="400" align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
-<br/>
 
 <h4>
 I am a computer engineer. I enjoy working with Java. Backend Development and new technologies attract my attention. I am currently working as a Middle Software Engineer at Universal Yazılım A.Ş.
 </h4>
-
 <p align="center">
+<a href="https://www.java.com/tr/" target="blank">
+    <img src="https://pbs.twimg.com/media/E00ZEgIVEAQFaZx.jpg" align="center" alt="JAVA" width="150"/>
+</a>
+</p>
+
+<hr>
+
+<h4 align="center">Contact Me</h4>
+<p align="center">
+
+
 <a href="https://linkedin.com/in/hakandereli" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hakandereli"/>
 </a>
@@ -16,15 +25,9 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
 <a href="mailto:hakandereli28@gmail.com" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="hakandereli"/>
 </a>
-
-<br/>
-<a href="https://www.java.com/tr/" target="blank">
-    <img src="https://pbs.twimg.com/media/E00ZEgIVEAQFaZx.jpg" align="center" alt="JAVA" width="100"/>
-</a>
-
 </p>
 
-<br/><br/><br/><br/>
+
 <hr/>
 
 <h3 align="center"> &#128293; Languages & Frameworks & Tools & Ability &#128293;</h3>
@@ -58,7 +61,7 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" alt="teams" width="40" height="40"/>
 </a>
 <a href="https://vaadin.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.logo.wine/a/logo/Vaadin/Vaadin-Logo.wine.svg" alt="vaadin" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/4b81894d523c738b5b5c42b38b4c092f53529b96/src/drivers/webextension/images/icons/Vaadin.svg" alt="vaadin" width="40" height="40"/>
 </a>
 <a href="https://www.primefaces.org/" target="_blank" rel="noreferrer">
     <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo-black.png" alt="PrimeFaces" width="40" height="40"/>
