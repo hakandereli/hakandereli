@@ -5,7 +5,7 @@
     <h2>
         I am a computer engineer. I enjoy working with Java. Backend Development and new technologies attract my attention. I am currently working as a Middle Software Engineer at Universal Yazılım A.Ş.
     </h2>
-
+<br>
 <hr/>
 
 <p align="center">
