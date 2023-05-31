@@ -1,33 +1,25 @@
-<h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center">
-  I am a computer engineer. I enjoy working with Java. Backend Development and
-  new technologies attract my attention. I am currently working as a Middle
-  Software Engineer at Universal Yazılım A.Ş.
-</h3>
-
-<p align="right">
-  <img
-    src="https://komarev.com/ghpvc/?username=hakandereli&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hakandereli"
-  />
+<p>
+  <img align="right" src="https://komarev.com/ghpvc/?username=hakandereli&label=Profile%20views&color=0e75b6&style=flat" alt="hakandereli"/>
+    <br>
+    <span style="text-align: justify">  
+    I am a computer engineer. I enjoy working with Java. Backend Development and new technologies attract my attention. I am currently working as a Middle Software Engineer at Universal Yazılım A.Ş.</span>
 </p>
+
+<hr/>
+<p align="center">
+  <a href="https://linkedin.com/in/hakandereli" target="blank"><img
+      align="center"
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
+      alt="hakandereli"/>
+  </a>
+</p>
+
 
 <p align="justify">
 🌱 I’m currently learning **Java, Spring Boot, Angular 15, Design Patterns** <br/>
 📫 How to reach me **hakandereli28@gmail.com**
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hakandereli" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="hakandereli"
-      height="30"
-      width="40"
-  /></a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
