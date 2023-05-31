@@ -9,7 +9,6 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
 </h4>
 
 <p align="center">
-
 <a href="https://linkedin.com/in/hakandereli" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hakandereli"/>
 </a>
@@ -18,9 +17,14 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="hakandereli"/>
 </a>
 
+<br/>
+<a href="https://www.java.com/tr/" target="blank">
+    <img src="https://pbs.twimg.com/media/E00ZEgIVEAQFaZx.jpg" align="center" alt="JAVA" width="100"/>
+</a>
+
 </p>
 
-<br/><br/>
+<br/><br/><br/><br/>
 <hr/>
 
 <h3 align="center"> &#128293; Languages & Frameworks & Tools & Ability &#128293;</h3>
@@ -36,13 +40,13 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
 </a>
 <a href="https://www.oracle.com/tr/java/weblogic/" target="_blank" rel="noreferrer">
     <img src="https://www.bacula.lat/wp-content/uploads/2019/05/weblogic-logo.png" alt="oracle web logic" width="40" height="40"/>
 </a>
 <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" alt="tomcat" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40" height="40"/>
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" alt="İntellij idea" width="40" height="40"/>
