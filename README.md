@@ -54,6 +54,9 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" alt="İntellij idea" width="40" height="40"/>
 </a>
+<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/da6a740c5fc9973f8d67b0e8791d1c04d1975d45/images/svg/netbeans.svg" alt="netbeans" title="netbeans" width="40" height="40"/>
+</a>
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="webstorm" width="40" height="40"/>
 </a>
