@@ -1,27 +1,26 @@
-<p>
+<p style="font-size: 30px">
   <img align="right" src="https://komarev.com/ghpvc/?username=hakandereli&label=Profile%20views&color=0e75b6&style=flat" alt="hakandereli"/>
-    <br>
-    <span style="text-align: justify">  
-    I am a computer engineer. I enjoy working with Java. Backend Development and new technologies attract my attention. I am currently working as a Middle Software Engineer at Universal Yazılım A.Ş.</span>
+    <br><br>
+    <img width="250" style="float: left;margin-right: 30px" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+    I am a computer engineer. I enjoy working with Java. Backend Development and new technologies attract my attention. I am currently working as a Middle Software Engineer at Universal Yazılım A.Ş.
 </p>
 
+<div style="clear: both"></div>
+
 <hr/>
+
 <p align="center">
-  <a href="https://linkedin.com/in/hakandereli" target="blank"><img
-      align="center"
-      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
-      alt="hakandereli"/>
+  <a href="https://linkedin.com/in/hakandereli" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hakandereli"/>
+  </a>
+
+  <a href="mailto:hakandereli28@gmail.com" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="hakandereli"/>
   </a>
 </p>
 
 
-<p align="justify">
-🌱 I’m currently learning **Java, Spring Boot, Angular 15, Design Patterns** <br/>
-📫 How to reach me **hakandereli28@gmail.com**
-</p>
-
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"> &#128293; Languages & Frameworks & Tools & Ability &#128293;</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
@@ -37,7 +36,6 @@
       width="40"
       height="40"
   /></a>
-<br/>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg"
@@ -45,7 +43,6 @@
       width="40"
       height="40"
   /></a>
-<br/>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
@@ -70,7 +67,6 @@
       height="40"
     />
   </a>
-<br/>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -87,7 +83,6 @@
       height="40"
     />
   </a>
-<br/>
 <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -104,8 +99,6 @@
       height="40"
     />
   </a>
-
-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -122,7 +115,6 @@
       height="40"
     />
   </a>
-
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -132,7 +124,6 @@
     />
   </a>
 
-<br/>
 
 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
