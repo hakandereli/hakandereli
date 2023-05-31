@@ -1,10 +1,12 @@
-<p style="font-size: 30px">
+<p>
   <img align="right" src="https://komarev.com/ghpvc/?username=hakandereli&label=Profile%20views&color=0e75b6&style=flat" alt="hakandereli"/>
-    <br><br>
-    <img width="250" style="float: left;margin-right: 30px" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-    I am a computer engineer. I enjoy working with Java. Backend Development and new technologies attract my attention. I am currently working as a Middle Software Engineer at Universal Yazılım A.Ş.
+    <br/><br/>
+    <img width="250" align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+    <br/>
+    <h2>
+        I am a computer engineer. I enjoy working with Java. Backend Development and new technologies attract my attention. I am currently working as a Middle Software Engineer at Universal Yazılım A.Ş.
+    </h2>
 </p>
-
 <div style="clear: both"></div>
 
 <hr/>
@@ -18,10 +20,12 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="hakandereli"/>
   </a>
 </p>
+<hr/>
 
 
 <h3 align="center"> &#128293; Languages & Frameworks & Tools & Ability &#128293;</h3>
-<p align="left">
+<hr/>
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -164,7 +168,7 @@
 
 <p>
   &nbsp;<img
-    align="center"
+    align="right"
     src="https://github-readme-stats.vercel.app/api?username=hakandereli&show_icons=true&locale=en"
     alt="hakandereli"
   />
