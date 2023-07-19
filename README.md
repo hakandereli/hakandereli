@@ -129,5 +129,6 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
 <br/>
 
 <p>
+    <img align="left" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hakandereli&show_icons=true&locale=en&layout=compact" alt="hakandereli"/>
     <img align="right" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hakandereli&show_icons=true&locale=en" alt="hakandereli"/>
 </p>
