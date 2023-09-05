@@ -64,7 +64,7 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" alt="teams" title="Teams" width="40" height="40"/>
 </a>
 <a href="https://vaadin.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/4b81894d523c738b5b5c42b38b4c092f53529b96/src/drivers/webextension/images/icons/Vaadin.svg" alt="vaadin" title="Vaadin" width="40" height="40"/>
+    <img src="https://vaadin.com/images/trademark/PNG/VaadinLogo_RGB_1000x310.png" alt="vaadin" title="Vaadin" width="80" height="40"/>
 </a>
 <a href="https://www.primefaces.org/" target="_blank" rel="noreferrer">
     <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo-black.png" alt="PrimeFaces" title="PrimeFaces" width="40" height="40"/>
