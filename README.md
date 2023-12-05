@@ -18,14 +18,14 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
 <p align="center">
 
 
-<a href="https://linkedin.com/in/hakandereli" target="blank">
+<a href="https://linkedin.com/in/hakandereli" target="blank" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="hakandereli"/>
 </a>
 
-<a href="mailto:hakandereli28@gmail.com" target="blank">
+<a href="mailto:hakandereli28@gmail.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="hakandereli"/>
 </a>
-<a href="https://www.hackerrank.com/profile/hakandereli28" target="blank">
+<a href="https://www.hackerrank.com/profile/hakandereli28" target="_blank">
     <img align="center" src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" alt="hakandereli" width="100"/>
 </a>
 </p>
