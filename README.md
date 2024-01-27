@@ -135,5 +135,3 @@ I am a computer engineer. I enjoy working with Java. Backend Development and new
     <img align="left" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hakandereli&show_icons=true&locale=en&layout=compact" alt="hakandereli"/>
     <img align="right" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hakandereli&show_icons=true&locale=en" alt="hakandereli"/>
 </p>
-
-<iframe src="https://hackerrank-badge.herokuapp.com/hakandereli" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
