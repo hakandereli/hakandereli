@@ -4,7 +4,7 @@
 <img width="400" align="right" src=".idea/software_developer.gif"/>
 
 <h4>
-I am a computer engineer. I enjoy working with Java. Backend Development and new technologies attract my attention. I am currently working as a Middle Software Engineer at Şekerbank T.A.Ş.
+I am a computer engineering graduate. I have 4,5 years of professional software development experience. My career goal is to be a software architect.
 </h4>
 <p align="center">
 <a href="https://www.java.com/tr/" target="blank">
