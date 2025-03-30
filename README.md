@@ -127,7 +127,7 @@ I have been working professionally as a software developer since 2020. With my e
     <img src="https://www.drupal.org/files/styles/grid-3-2x/public/images/Redmine-Logo-CyberSprocket-Composite-300x300-png8.png?itok=TOEGwFSB" alt="redmine" title="Redmine" width="40" height="40"/>
 </a>
 <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2023/03/Atlassian-Logo.png" alt="redmine" title="Redmine" width="40" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2023/03/Atlassian-Logo.png" alt="redmine" title="Atlassian" width="40" height="40"/>
 </a>
 
 </p>
