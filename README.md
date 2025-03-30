@@ -4,11 +4,11 @@
 <img width="400" align="right" src=".idea/software_developer.gif"/>
 
 <h4>
-I am a computer engineering graduate. I have 4,5 years of professional software development experience. My career goal is to be a software architect.
+I have been working professionally as a software developer since 2020. With my experience in banking, private health insurance, military, and municipal sectors, I have played an active role in various projects. I enjoy working with modern technologies and creating innovative solutions. I am a team player with an analytical approach, which helps me find practical solutions to challenging problems, and I aim to contribute to new projects that add value to my career.
 </h4>
 <p align="center">
 <a href="https://www.java.com/tr/" target="blank">
-    <img src="https://pbs.twimg.com/media/E00ZEgIVEAQFaZx.jpg" align="center" alt="JAVA" width="150"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" align="center" alt="JAVA" height="170"/>
 </a>
 </p>
 
